@@ -1,4 +1,4 @@
-shadowsocks=199.36.221.110:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 𝟭
-shadowsocks=199.36.221.107:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 𝟮
+shadowsocks=98.142.220.35:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 𝟭
+shadowsocks=84.17.35.86:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 𝟮
 shadowsocks=92.119.177.23:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 𝟯
-shadowsocks=172.98.75.40:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 4
+shadowsocks=193.148.18.51:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸𝗡𝗲𝘄 𝗬𝗼𝗿𝗸 ➤ 4
