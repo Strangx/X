@@ -1,0 +1,1 @@
+shadowsocks=107.152.101.164:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇺🇸 ➤ 𝗡𝗲𝘄 𝗬𝗼𝗿𝗸
