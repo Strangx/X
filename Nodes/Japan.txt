@@ -1,0 +1,1 @@
+shadowsocks=jp-tok.prod.surfshark.com:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇯🇵 ➤ 𝗧𝗼𝗸𝘆𝗼
