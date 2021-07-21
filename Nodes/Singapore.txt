@@ -1,2 +1,2 @@
-shadowsocks=84.247.49.19:44467, method=aes-256-gcm, password=hWPYUXPGNxLxyqW6jC2FnueU, fast-open=false, udp-relay=false, tag=🇸🇬 ➤ 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 1
+shadowsocks=84.247.49.19: 33074, method=aes-256-gcm, password=FuRqbCTpnD7cKjDPt7r7A3FN, fast-open=false, udp-relay=false, tag=🇸🇬 ➤ 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 1
 shadowsocks=139.59.253.61:49198, method=chacha20-ietf-poly1305, password=5zxbtNuh8bwV, fast-open=false, udp-relay=false, tag= 🇸🇬 ➤ 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲 2
